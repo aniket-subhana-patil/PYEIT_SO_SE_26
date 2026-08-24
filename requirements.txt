@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+pandas
+shapely
+trimesh
+jupyterlab
+ipykernel
