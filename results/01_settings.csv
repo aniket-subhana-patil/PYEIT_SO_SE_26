@@ -1,0 +1,11 @@
+setting,value
+tank,circle of radius 1
+electrodes,"16, evenly spaced"
+background,conductivity 1.0
+simulation mesh,3489 triangles
+reconstruction mesh,1083 triangles
+standard object,"circle, radius 0.15, conductivity 2.0"
+injection patterns,"adjacent (gap 1), opposite (gap 8), skip_4 (gap 5)"
+methods,"back-projection, Gauss-Newton, GREIT"
+image size,64 x 64
+random seed,2026 (results repeat exactly)

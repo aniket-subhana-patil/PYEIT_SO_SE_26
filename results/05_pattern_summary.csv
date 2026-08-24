@@ -1,0 +1,4 @@
+pattern,current,good,bad,use_for
+adjacent (gap 1),stays in a thin band near the edge,sharpest and clearest images at every position in these simulations; simplest switching hardware,"by far the most lopsided sensitivity and the smallest signal, especially for objects in the middle","clean measurements, objects near the edge"
+opposite (gap 8),straight across the tank,"most even sensitivity, several times more signal for a central object, and much larger voltages overall","blurriest images here, because its 16 injections overlap heavily and repeat much of the same information","noisy hardware, or objects expected in the middle"
+skip-4 (gap 5),part way across,close to opposite on sensitivity and signal while staying much closer to adjacent on image sharpness,not the best at any single thing,a reasonable all-round choice when you do not know where objects will be

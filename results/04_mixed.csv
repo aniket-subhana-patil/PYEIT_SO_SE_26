@@ -1,0 +1,11 @@
+configuration,object_conductivity,reconstructed_value,sign_correct
+both conductive,2.0,0.96,True
+both conductive,2.0,0.956,True
+both non-conductive,0.5,-0.96,True
+both non-conductive,0.5,-0.947,True
+one of each,2.0,0.957,True
+one of each,0.5,-0.94,True
+four alternating,2.0,0.928,True
+four alternating,0.5,-0.896,True
+four alternating,2.0,0.957,True
+four alternating,0.5,-0.892,True

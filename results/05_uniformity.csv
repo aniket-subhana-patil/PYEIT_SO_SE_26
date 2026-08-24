@@ -1,0 +1,4 @@
+pattern,edge_over_centre
+adjacent (gap 1),22.8
+opposite (gap 8),9.6
+skip-4 (gap 5),12.1

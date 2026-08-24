@@ -1,0 +1,4 @@
+method,smallest_gap,in_object_diameters
+Back-projection,0.7,2.33
+Gauss-Newton,0.6,2.0
+GREIT,0.7,2.33

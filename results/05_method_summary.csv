@@ -1,0 +1,4 @@
+method,good,bad,use_for
+Back-projection,fastest to set up by a long way; almost no false halo; never unstable,blob about three times too big; worst at placing the object; image brightness is on an arbitrary scale,a quick look while setting things up
+Gauss-Newton,sharpest blob and best position accuracy on clean data,strongest false halo around objects; falls apart fastest as noise grows; needs its smoothing setting tuned,"good measurement hardware, objects near the edge"
+GREIT,"roundest blobs, modest halo, copes best with noise, most consistent across the tank",blurrier than Gauss-Newton on clean data; slowest to set up,a sensible default for most situations
